@@ -22,6 +22,7 @@ global TEXT_DESC := "
         【F4】：退出脚本
 
     退出方法：按 F4 / 右键右下角绿底白 H 图标，选 Exit
+    源代码：https://github.com/TWT233/exia
 )"
 global TEXT_BTN_REC := "配装推荐"
 global TEXT_BTN_OK := "确认"
