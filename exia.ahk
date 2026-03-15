@@ -104,7 +104,7 @@ F1:: {
             statusMsg .= TEXT_NIKKE_NOT_FOUND
         }
 
-        ToolTip(TEXT_NIKKE_NOT_FOUND)
+        ToolTip(statusMsg)
         SetTimer(DoPressW, -1)
         SetTimer(DoPress1, 1000)
     } else {
